@@ -6,7 +6,7 @@ With this project, I aimed to create a web application with MySQL Database using
 
 All you have to do is editing the terraform-files/myvars.auto.tfvars folder with your own values and running the "terraform apply" command inside the terraform-files folder. You will see the page on port 30001 and port 30002 in about 10 minutes.
 
-WARNING This terraform files creates an Amazon EC2 instance.  There will be a payment due to AWS resource usage.
+WARNING: This terraform files creates an Amazon EC2 instance.  There will be a payment due to AWS resource usage.
 
 
 Road Map: 
